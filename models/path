@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>AppName</key>
+    <string>Spectrum</string>
+    <key>Bundle-Identifier</key>
+    <string>com.vedas.spectrum</string>
+    <key>AppStore-Id</key>
+    <string>https://itunes.apple.com/us/app/urbanspoon/id284708449</string>
+    <key>App-Key</key>
+    <string>FzjyqOKblv</string>
+    <key>Secret-Key</key>
+    <string>XCguVn6RRmXcoqCg</string>
+  </dict>
+</plist>
